@@ -1,5 +1,5 @@
 # kharido-and-bechho
-## This is E-commerce website
+## This is an E-commerce website to manage an Online retail store
 
 ### Login Page
 - ![Login](static/login.png)
